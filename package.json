@@ -1,0 +1,24 @@
+{
+  "name": "acity-printr",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^8.1.0",
+    "express": "~4.16.1",
+    "hbs": "~4.0.4",
+    "http-errors": "~1.6.3",
+    "husky": "^3.0.5",
+    "lint-staged": "^9.2.5",
+    "mongoose": "^5.6.13",
+    "morgan": "~1.9.1",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "prettier-eslint": "^9.0.0",
+    "printer": "^0.2.2"
+  }
+}
